@@ -1,0 +1,15 @@
+# Core dependencies
+numpy>=1.24
+pandas>=2.0
+scipy>=1.11
+implicit>=0.7        # ALS, ItemKNN via Cosine recommender
+pyarrow>=12.0        # reading .parquet files (LFM-1b, XITE)
+
+# Visualisation (used in notebooks)
+matplotlib>=3.7
+seaborn>=0.12
+
+# Notebook environment
+jupyter>=1.0
+ipywidgets>=8.0
+tqdm>=4.65

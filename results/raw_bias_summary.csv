@@ -1,0 +1,3 @@
+dataset,n_artists,top20_pct_plays,gini_plays,gini_reach,genre_gini,top_genre,top_genre_pct
+LFM-1b,352805,96.0,0.9324,0.7362,0.5949,rock,20.9
+XITE,23137,97.5,0.9266,,0.5173,Country,16.7

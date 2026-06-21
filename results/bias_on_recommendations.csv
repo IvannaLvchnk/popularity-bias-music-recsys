@@ -1,0 +1,5 @@
+model,ARP,ACLT,Exposure_Gini,Catalog_Coverage
+Popularity,67738.9086,0.0000,1.0000,0.0002
+ItemKNN,302.9789,0.5784,0.9821,0.0333
+ALS,15215.5469,0.0000,0.9960,0.0114
+raw_baseline,4996,,,,
